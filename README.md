@@ -102,7 +102,7 @@ For a quick overview of the complete analysis, open:
 DataScience_Project_Report.html
 ```
 
-The PDF contains the notebook's analysis, visualizations, results, and code without requiring Jupyter Notebook to be installed.
+The HTML contains the notebook's analysis, visualizations, results, and code without requiring Jupyter Notebook to be installed.
 
 The interactive geographic visualization can be viewed by opening:
 
