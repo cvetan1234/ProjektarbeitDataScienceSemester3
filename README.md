@@ -99,7 +99,7 @@ Main technologies and libraries include:
 For a quick overview of the complete analysis, open:
 
 ```text
-DataScience_Project_Report.pdf
+DataScience_Project_Report.html
 ```
 
 The PDF contains the notebook's analysis, visualizations, results, and code without requiring Jupyter Notebook to be installed.
@@ -143,7 +143,3 @@ Lyoteva_Maria_Stanchev_Tsvetan.ipynb
 and execute the cells from top to bottom.
 
 The supplied data files should remain in the project directory so that the notebook can access them.
-
-## About
-
-This project demonstrates practical data engineering and data analytics techniques, including data preprocessing, exploratory data analysis, statistical analysis, visualization, geographic data visualization, feature analysis, and machine learning applied to real-world energy data.
